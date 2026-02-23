@@ -2,28 +2,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0crateX&label=Profile%20views&color=0e75b6&style=flat-square&base=1000" alt="s0crateX" /> </p>
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# s0crateX
+## s0crateX
 
 **Cybersecurity Researcher | Bug Hunter | Part-time at HackerOne**
 
 I break stuff to secure stuff -- legally.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+| | |
+|---|---|
+| **Currently learning** | Blockchain Security |
+| **Ask me about** | Web Vulnerabilities, AppSec, Bug Bounty |
+| **Reach me at** | s0cr4teX@proton.me |
+| **Fun fact** | Perpetually curious |
 
-</div>
-
----
-
-### About
-
-```yaml
-current_focus: Blockchain Security
-ask_me_about: Web Vulnerabilities, AppSec, Bug Bounty
-contact: s0cr4teX@proton.me
-fun_fact: Perpetually curious
-```
+<br clear="both"/>
 
 ---
 
