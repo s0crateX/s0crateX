@@ -54,7 +54,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="36" height="36"/>
+</picture>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="36" height="36"/>
@@ -62,10 +66,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="36" height="36"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000"/>
+  <img src="https://cdn.simpleicons.org/express/000000" alt="express" width="36" height="36"/>
+</picture>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="36" height="36"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/flask/000000"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" alt="flask" width="36" height="36"/>
+</picture>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="36" height="36"/>
@@ -80,7 +92,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="36" height="36"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/000000"/>
+  <img src="https://cdn.simpleicons.org/github/000000" alt="github" width="36" height="36"/>
+</picture>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
@@ -117,7 +133,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=s0crateX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0crateX&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
