@@ -1,3 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif)](https://github.com/s0crateX)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0crateX&label=Profile%20views&color=0e75b6&style=flat-square" alt="s0crateX" /> </p>
+
 <div align="center">
 
 # s0crateX
@@ -7,8 +11,6 @@
 I break stuff to secure stuff -- legally.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=s0crateX&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/s0crateX)
 
 </div>
 
