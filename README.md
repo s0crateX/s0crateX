@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif)](https://github.com/s0crateX)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0crateX&label=Profile%20views&color=0e75b6&style=flat-square&base=1000" alt="s0crateX" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0crateX&label=Profile%20views&color=0e75b6&style=flat-square&base=7000" alt="s0crateX" /> </p>
 
 ---
 
